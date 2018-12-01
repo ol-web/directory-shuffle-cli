@@ -1,0 +1,5 @@
+{
+    "foo":"bar",
+    "prop": 100,
+    "doubleQuotes": "Lorem \"ipsum\""
+}
